@@ -45,4 +45,4 @@ permalink: /sighttosound/
 <br>
 Carruthers and Girard struck upon an ingenious solution. They created a geography of the orchestra on a sheet of transparent plastic and used it to map over Carruthers’ art works. Dr. Girard recounts: “We created a transparent overlay of the seating chart and went page by page, figuring out which instruments would take responsibility for which parts of the images.”
 
-Learn more: [The Premiere](https://ubc-ds.github.io/slippages/premiere)
+<button type="button" class="btn btn-light">Learn more: [The Premiere](https://ubc-ds.github.io/slippages/premiere)</button>

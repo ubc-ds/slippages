@@ -6,4 +6,4 @@ permalink: /science/
 
 More information coming soon
 
-Learn more: [The Creative Process](https://ubc-ds.github.io/slippages/process)
+<button type="button" class="btn btn-light">Learn more: [The Creative Process](https://ubc-ds.github.io/slippages/process)</button>
