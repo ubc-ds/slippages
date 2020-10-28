@@ -5,10 +5,11 @@ permalink: /premiere/
 ---
 
 ### Performance
+
 <div class="container">
 <video width="800" height="auto" controls>
- <source src="videos/performance.mp4" type="video/mp4">
- <source src="videos/performance.ogg" type="video/ogg">
+ <source src="https://media.githubusercontent.com/media/ubc-ds/slippages/master/videos/performance.mp4" type="video/mp4">
+ <source src="https://media.githubusercontent.com/media/ubc-ds/slippages/master/videos/performance.ogg" type="video/ogg">
 </video>
 </div>
 
