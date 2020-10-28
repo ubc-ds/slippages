@@ -6,12 +6,7 @@ permalink: /premiere/
 
 ### Performance
 
-<div class="container">
-<video width="800" height="auto" controls>
- <source src="https://media.githubusercontent.com/media/ubc-ds/slippages/master/videos/performance.mp4" type="video/mp4">
- <source src="https://media.githubusercontent.com/media/ubc-ds/slippages/master/videos/performance.ogg" type="video/ogg">
-</video>
-</div>
+<a href="https://open.library.ubc.ca/cIRcle/collections/ubccommunityandpartnerspublicati/52387/items/1.0394360">Watch video!<script>var w=window,d=document,e;w._fpes||(w._fpes=[],w.addEventListener("load",function(){var s=d.createElement("script");s.src="//embed.flowplayer.org/6.0.5/embed.min.js",d.body.appendChild(s)})),e=[].slice.call(d.getElementsByTagName("script"),-1)[0].parentNode,w._fpes.push({e:e,l:"",c:{"ratio":0.5625,"rtmp":0,"live":false,"origin":"https://open.library.ubc.ca/cIRcle/collections/ubccommunityandpartnerspublicati/52387/items/1.0394360","key":"$495598992287452","swf":"//releases.flowplayer.org/6.0.5/commercial/flowplayer.swf","swfHls":"//releases.flowplayer.org/6.0.5/commercial/flowplayerhls.swf","adaptiveRatio":true,"clip":{"sources":[{"type":"application/x-mpegurl","src":"https://open.library.ubc.ca/media/stream/m3u8/52387/1.0394360/0"},{"type":"video/mp4","src":"https://open.library.ubc.ca/media/stream/mp4/52387/1.0394360/0"}]}}});</script></a>
 
 Performance of *‘slippages’*  by UBCSO courtesy of UBC School of Music.
 

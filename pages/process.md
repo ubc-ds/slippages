@@ -51,11 +51,9 @@ Upon returning to Montréal after visiting Athabasca Glacier, Carruthers set to 
 Carruthers commissioned special hand-made paper for the final images, requesting sheets be made with random holes. As the pages are placed over each other, the holes function metaphorically to stimulate the performer into imagining peering through the surface of the glacier to consider its past. Carruthers states: “With a glacier, the present is on the surface. You are working from the present to the past. Each layer, each sheet of my score is a layer of history.”
 
 ### Digital
-<div class="container">
-<video width="800"" height="auto" controls>
- <source src="videos/streaming-excerpt.mp4" type="video/mp4">
-</video>
-</div>
+
+<a href="https://open.library.ubc.ca/cIRcle/collections/ubccommunityandpartnerspublicati/52387/items/1.0394360">Watch video!<script>var w=window,d=document,e;w._fpes||(w._fpes=[],w.addEventListener("load",function(){var s=d.createElement("script");s.src="//embed.flowplayer.org/6.0.5/embed.min.js",d.body.appendChild(s)})),e=[].slice.call(d.getElementsByTagName("script"),-1)[0].parentNode,w._fpes.push({e:e,l:"",c:{"ratio":0.5625,"rtmp":0,"live":false,"origin":"https://open.library.ubc.ca/cIRcle/collections/ubccommunityandpartnerspublicati/52387/items/1.0394360","key":"$495598992287452","swf":"//releases.flowplayer.org/6.0.5/commercial/flowplayer.swf","swfHls":"//releases.flowplayer.org/6.0.5/commercial/flowplayerhls.swf","adaptiveRatio":false,"clip":{"subtitles":[],"sources":[{"src":"https://open.library.ubc.ca/media/stream/m3u8/52387/1.0394360/5","suffix":"application/x-mpegurl","type":"application/x-mpegurl"},{"src":"https://open.library.ubc.ca/media/stream/mp4/52387/1.0394360/5","suffix":"video/mp4","type":"video/mp4"}]}}});</script></a>
+
 Along with the paintings, Carruthers created a streaming video component that would serve to compliment the central aural experience.
 
 Learn more: [From Sight to Sound](https://ubc-ds.github.io/slippages/sighttosound)
