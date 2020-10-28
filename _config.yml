@@ -22,7 +22,7 @@ title:            'Slippages'
 description:      'Exhibit site for Slippages project'
 url:              'https://ubc-ds.github.io'
 baseurl:          '/slippages'
-copyright:        'Copyright Deborah Carruthers and UBC Library except where otherwise noted.'
+copyright:        'U+00A9 Copyright Deborah Carruthers, UBC Library, and UBC School of Music except where otherwise noted.'
 logo:             '/img/logos/ubc-logo.png'
 
 # ---------------------------------------------------------------

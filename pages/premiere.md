@@ -32,4 +32,4 @@ async >
 </script>
 </div>
 
-Learn more: [Artist's Documents](https://ubc-ds.github.io/slippages/artistdocuments)
+<button type="button" class="btn btn-light">[Next: Artist's Documents](https://ubc-ds.github.io/slippages/artistdocuments)</button>

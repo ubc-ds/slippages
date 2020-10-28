@@ -60,4 +60,4 @@ It will produce a unique piece each time it is played.</p>
 <p class="artist">Structured improvisations provide a framework to examine ideas, themes, and sound.</p>
 
 <br>
-Learn more:<a href="https://ubc-ds.github.io/slippages/outcomes"> The Outcomes</a>
+<button type="button" class="btn btn-light"><a href="https://ubc-ds.github.io/slippages/outcomes">Next: The Outcomes</a></button>
