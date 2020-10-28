@@ -58,4 +58,4 @@ Carruthers commissioned special hand-made paper for the final images, requesting
 </div>
 Along with the paintings, Carruthers created a streaming video component that would serve to compliment the central aural experience.
 
-Learn more: [From Sight to Sound](https://egrguric.github.io/slippages/sighttosound)
+Learn more: [From Sight to Sound](https://ubc-ds.github.io/slippages/sighttosound)

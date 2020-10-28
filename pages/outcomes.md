@@ -48,4 +48,4 @@ The inclusion of *‘slippages’*  in UBCSO’s 2018-19 concert season offered 
 <br>
 Most importantly, *‘slippages’*  endures as a marker for student engagement around climate crisis at UBC, both in terms of activities related to their professional studies and as inspiration to action.
 
-Learn more: [Affiliations](https://egrguric.github.io/slippages/affiliations)
+Learn more: [Affiliations](https://ubc-ds.github.io/slippages/affiliations)

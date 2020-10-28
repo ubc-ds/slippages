@@ -6,4 +6,4 @@ permalink: /science/
 
 More information coming soon
 
-Learn more: [The Creative Process](https://egrguric.github.io/slippages/process)
+Learn more: [The Creative Process](https://ubc-ds.github.io/slippages/process)
