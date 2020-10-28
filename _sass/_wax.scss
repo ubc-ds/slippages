@@ -54,7 +54,15 @@ p.artist {
   text-rendering: optimizeLegibility;
 }
 
-
+p.generic-caption {
+  margin: 0em 0 0em 0;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: .8em;
+  font-style: italic;
+  line-height: 1.3rem;
+  font-family: $heading-font;
+}
 /*
 
 header & nav bar
