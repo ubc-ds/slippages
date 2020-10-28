@@ -1,0 +1,141 @@
+# ==============================================================
+# WAX CONFIGURATION
+# ==============================================================
+# Jekyll configuration files are written in YAML format.
+# Colons, tabs/spacing, and quotes are meaningful in YAML.
+# It is recommended you look at the following guide to avoid
+# syntax errors in this file:
+# ~> https://learnxinyminutes.com/docs/yaml/
+#
+#
+# Questions ?
+# ~> https://minicomp.github.io/wiki/#/
+# ~> https://gitter.im/minicomp/wax/
+#
+# ---------------------------------------------------------------
+# MAIN SETTINGS
+# ---------------------------------------------------------------
+# Feel free to change these! For more info, refer to:
+# ~> https://jekyllrb.com/docs/configuration/options/
+
+title:            'Slippages'
+description:      'Exhibit site for Slippages project'
+url:              'https://egrguric.github.io'
+baseurl:          '/slippages'
+copyright:        'Copyright Deborah Carruthers and UBC Library except where otherwise noted.'
+logo:             '/img/logos/ubc-logo.png'
+
+# ---------------------------------------------------------------
+# BUILD SETTINGS
+# ---------------------------------------------------------------
+# Best not to mess with these unless you know what you're doing!
+
+permalink: 'pretty'
+sass:
+  style: compressed
+exclude:
+  - Gemfile*
+  - Rakefile
+  - vendor
+  - spec
+  - README.md
+webrick:
+  headers:
+    'Access-Control-Allow-Origin': '*'
+kramdown:
+ auto_ids:       true
+ footnote_nr:    1
+ entity_output:  as_char
+ footnote_backlink: "&#x21a9;&#xfe0e;"
+ toc_levels:     1..6
+ smart_quotes:   lsquo,rsquo,ldquo,rdquo
+ enable_coderay: false
+
+
+# --------------------------------------------------------------
+# COLLECTION SETTINGS
+# --------------------------------------------------------------
+# Wax leverages Jekyll collections for much of its
+# functionality, therefor some of the keys below are from
+# Jekyll while others are Wax-specific.
+# For more info, refer to:
+# ~> https://jekyllrb.com/docs/collections/
+
+collections:
+  exhibits:
+    output: true
+  slippages: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'slippages_item' # the layout for the pages to use
+    metadata:
+      source: 'slippages.csv' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/slippages' # path to the directory of images within `_data`
+
+# --------------------------------------------------------------
+# SEARCH INDEX SETTINGS
+# --------------------------------------------------------------
+# You can create multiple search indexes below (though only one is
+# recommended!) by specifying
+# an `index` file to write it to and some `collections` for it to index
+# and running `$ bundle exec rake wax:search` .
+
+#search:
+#  main:
+#    index: '/search/index.json' # file the index will get written to
+#    collections:
+#      qatar:
+#        content: false # whether or not to index page content
+#        fields: # the metadata fields to index
+#          - artist
+#          - location
+#          - label
+#          - _date
+#          - object_type
+#          - current_location
+
+# --------------------------------------------------------------
+# SITE MENU SETTINGS
+# --------------------------------------------------------------
+# Each menu item needs a `label` (whats shown), and a `link`
+# (where it goes). An item can optionally have a dropdown
+# submenu via `sub`.
+
+menu:
+  - label: 'The project'
+    sub:
+      - label: 'The Science'
+        link: '/science/'
+      - label: 'The Creative Process'
+        link: '/process/'
+      - label: 'From Sight to Sound'
+        link: '/sighttosound/'
+      - label: 'The Premiere'
+        link: '/premiere/'
+      - label: 'Artist&#39;s Documents'
+        link: '/artistdocuments/'
+      - label: 'The Outcomes'
+        link: '/outcomes/'
+  - label: 'About'
+    link: '/about'
+    sub:
+      - label: 'Affiliations'
+        link: '/affiliations/'
+      - label: 'Acknowledgements'
+        link: '/acknowledgements/'
+
+# --------------------------------------------------------------
+# SITE FOOTER SETTINGS
+# --------------------------------------------------------------
+#
+
+footer:
+  links:
+    - label: 'View on GitHub'
+      link: 'https://github.com/egrguric/slippages'
+    - label: 'Site credits'
+      link: '/credits'
+  logos:
+    - img: '/img/logos/ubc-logo.png'
+
+# FIN
