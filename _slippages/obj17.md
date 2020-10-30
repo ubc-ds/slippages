@@ -1,7 +1,8 @@
 ---
 pid: obj17
 RBSC-id: '09- IMGP7838 copy'
-Label:
+Label: One of three images courtesy photographer John William capturing Maestro Dr.
+  Jonathan Girard and the artist deep in the collaborative process.
 order: '17'
 layout: slippages_item
 collection: slippages

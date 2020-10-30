@@ -80,6 +80,11 @@
       "label": "obj25"
     },
     {
+      "@id": "http://localhost:4000/slippages/img/derivatives/iiif/obj31/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj31"
+    },
+    {
       "@id": "http://localhost:4000/slippages/img/derivatives/iiif/obj19/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj19"
@@ -90,9 +95,19 @@
       "label": "obj18"
     },
     {
+      "@id": "http://localhost:4000/slippages/img/derivatives/iiif/obj30/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj30"
+    },
+    {
       "@id": "http://localhost:4000/slippages/img/derivatives/iiif/obj24/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj24"
+    },
+    {
+      "@id": "http://localhost:4000/slippages/img/derivatives/iiif/obj32/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj32"
     },
     {
       "@id": "http://localhost:4000/slippages/img/derivatives/iiif/obj26/manifest.json",
@@ -103,6 +118,11 @@
       "@id": "http://localhost:4000/slippages/img/derivatives/iiif/obj27/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj27"
+    },
+    {
+      "@id": "http://localhost:4000/slippages/img/derivatives/iiif/obj33/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj33"
     },
     {
       "@id": "http://localhost:4000/slippages/img/derivatives/iiif/obj23/manifest.json",

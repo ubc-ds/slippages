@@ -32,6 +32,7 @@ In 2017, multidisciplinary artist, [Deborah Carruthers](http://www.deborahcarrut
   </div>
 </div>
 
+
 <br/>
 
 Carruthers found inspiration for the project on an earlier research trip to [Athabasca Glacier](https://en.wikipedia.org/wiki/Athabasca_Glacier) in the Canadian Rockies. The artist was determined to experience glaciers firsthand, motivated by their importance to our living planet; glaciers provide fresh water for irrigation and domestic use, sustain animal and plant life, and determine the level of earth’s oceans. Scientists continue to monitor glacial retreat or melting to determine the impact of atmospheric greenhouse gases released as a result of human activity. Athabasca Glacier is currently melting at a rate of over five meters a year.
@@ -57,4 +58,4 @@ Lying on her back on top of the ice field, Carruthers listened to the voice of t
 
 The result of Carruthers' concern for the natural environment, the field trip to Athabasca, and tenure as a Wall Scholar is *‘slippages’* – a 27-page graphic score with an accompanying streaming visual component. For the unfamiliar, graphic scores use visual symbols to represent music rather than traditional music notation. Because of their emphasis on the visual, graphic scores are frequently considered works of art in and of themselves.
 
-<button type="button" class="btn btn-light">[Next: The Science](https://egrguric.github.io/slippages/science)</button>
+<button type="button" class="btn btn-light">[Next: The Science](https://ubc-ds.github.io/slippages/science)</button>

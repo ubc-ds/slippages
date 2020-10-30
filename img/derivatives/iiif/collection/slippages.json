@@ -83,6 +83,11 @@ layout: none
       "label": "obj25"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj31/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj31"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj19/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj19"
@@ -93,9 +98,19 @@ layout: none
       "label": "obj18"
     },
     {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj30/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj30"
+    },
+    {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj24/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj24"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj32/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj32"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj26/manifest.json",
@@ -106,6 +121,11 @@ layout: none
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj27/manifest.json",
       "@type": "sc:Manifest",
       "label": "obj27"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj33/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "obj33"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj23/manifest.json",

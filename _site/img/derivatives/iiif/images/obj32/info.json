@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "http://localhost:4000/slippages/img/derivatives/iiif/images/obj32",
+  "protocol": "http://iiif.io/api/image",
+  "width": 960,
+  "height": 1280,
+  "sizes": [
+    {
+      "width": 960,
+      "height": 1280
+    },
+    {
+      "width": 250,
+      "height": 333
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

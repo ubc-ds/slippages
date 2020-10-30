@@ -17,10 +17,10 @@ Athabasca Glacier is the most visited glacier in North America. It forms part of
 <div class="inline-image-reference">
   <div class="row">
     <div class="col-sm">
-    {% include inline_image.html collection='slippages' pid='obj2' %}
+    {% include inline_image.html collection='slippages' pid='obj30' %}
     </div>
     <div class="col-sm">
-    {% include inline_image.html collection='slippages' pid='obj3' %}
+    {% include inline_image.html collection='slippages' pid='obj31' %}
     </div>
   </div>  
     <div class="row"><p class="image-caption"><b>Left:</b> Aerial image of the Columbia Icefield, highlighting the extent of recession of the Athabasca, Columbia, and Saskatchewan Glaciers between 1977 and 2020. The image on the <b>right</b> compiles the surface area lost on these three glaciers over 43 years and visualizes that area mapped onto downtown Vancouver and Vancouver Harbour. Images compiled by Evan Thornberry, UBC Library. </p></div>
@@ -37,15 +37,16 @@ The effects of glacier recession include loss of ecosystems and forests, and sev
 
 <div class="container">
 <div class="inline-image-reference">
-  <div class="row">
+  <div class="row row align-items-center">
     <div class="col-sm">
-    {% include inline_image.html collection='slippages' pid='obj2' %}
+    {% include inline_image.html collection='slippages' pid='obj32' %}
     </div>
     <div class="col-sm">
-    {% include inline_image.html collection='slippages' pid='obj3' %}
+    {% include inline_image.html collection='slippages' pid='obj33' %}
+    <br /><br />
+    <p class="image-caption"><b>Above and left:</b> “Listen to Scientists” banner at the UBC action and main strike at City Hall, September 27, 2019. Approx. 800,000 people marched in Canada and approximately 7 million marched worldwide. Photo courtesy of Sally Taylor and Helen Brown, UBC Library.</p>
     </div>
   </div>  
-    <div class="row"><p class="image-caption"><b>Above:</b> “Listen to Scientists” banner at the UBC action and main strike at City Hall, September 27, 2019. Approx. 800,000 people marched in Canada and approximately 7 million marched worldwide. Photo courtesy of Sally Taylor and Helen Brown, UBC Library.</p></div>
 </div>
 </div>
 
