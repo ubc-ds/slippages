@@ -34,19 +34,23 @@ Funding for the website *‘slippages’*  and digitization of *‘slippages’*
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
-<img src="../img/logos/ubc-logo.png" width="auto" height="70" />
+    <div class="col-6">
+<img src="../img/logos/ubc-logo.jpg" width="auto" height="70" />
 </div>
-   <div class="col-sm">
+   <div class="col-2">
 <img src="../img/logos/som-logo.png" width="auto" height="70" />
 </div>
-   <div class="col-sm">
+  </div>
+&nbsp;
+<div class="row">
+  <div class="col-6">
+<img src="../img/logos/cca-logo.jpg" width="auto" height="70" />
+</div>
+<div class="col-2">
 <img src="../img/logos/peter-wall-logo.jpg" width="auto" height="70" />
 </div>
-  </div>
 </div>
-<br>
-<img src="../img/logos/cca-logo.jpg" width="auto" height="70" />
+</div>
 
 ### Site
 
@@ -55,4 +59,4 @@ This site is built using Wax, a minimal computing ([minicomp](https://github.com
 Wax uses open source libraries and frameworks (including [Jekyll](https://jekyllrb.com/), [IIIF](https://iiif.io/), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/)) and builds upon work by software and data architects [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
 
 
-<button type="button" class="btn btn-light">[Affiliations](https://ubc-ds.github.io/slippages/affiliations)</button>
+<button type="button" class="btn btn-light">[Jump to: Affiliations](https://ubc-ds.github.io/slippages/affiliations)</button>

@@ -19,4 +19,4 @@ The list of current CWCAC participants is available through [canadian-women-comp
 
 The CWCAC is made possible through generous funding from the Anne Kaplan Endowment, UBC Library.
 
-<button type="button" class="btn btn-light">[Acknowledgements](https://ubc-ds.github.io/slippages/acknowledgements)</button>
+<button type="button" class="btn btn-light">[Jump to: Acknowledgements](https://ubc-ds.github.io/slippages/acknowledgements)</button>

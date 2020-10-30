@@ -31,5 +31,5 @@ data-media="0"
 async >
 </script>
 </div>
-
+&nbsp;
 <button type="button" class="btn btn-light">[Next: Artist's Documents](https://ubc-ds.github.io/slippages/artistdocuments)</button>

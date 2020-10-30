@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Artist&#x27;s Documents
-permalink: /artistdocuments/
+permalink: /artists-documents/
 ---
 
 <h3>1.	Biography and Statement</h3>

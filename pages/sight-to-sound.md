@@ -1,30 +1,28 @@
 ---
 layout: page
 title: From Sight to Sound
-permalink: /sighttosound/
+permalink: /sight-to-sound/
 ---
 
 ### In the Conductor's Studio
 
 <div class="container">
   <div class="inline-image-reference">
-  <div class="row">
-  <div class="col-sm-3">
+  <div class="row align-items-center">
+  <div class="col-6">
   {% include inline_image.html collection='slippages' pid='obj17' %}
   </div>
-    <div class="col-sm-7">
+    <div class="col-sm-6">
 {% include inline_image.html collection='slippages' pid='obj16'%}
-</div>
-  <div class="col-sm-7">
+&nbsp;
 {% include inline_image.html collection='slippages' pid='obj18'%}
- </div>
-  </div>
-<div class="row">
- <p class="image-caption"><b>Above and left:</b> Three images courtesy photographer John William capturing Maestro Dr. Jonathan Girard and the artist deep in the collaborative process.</p>
+</div>
+  <div class="row align-items-end">
+<p class="image-caption"><b>Above:</b> Three images courtesy photographer John William capturing Maestro Dr. Jonathan Girard and the artist deep in the collaborative process.</p>
 </div>
 </div>
 </div>
-<br>
+&nbsp;
 <p>In the summer of 2018, Carruthers gathered up 27 selected paintings that would comprise the <b>slippages</b>  series and temporarily relocated to Vancouver to work with <a href="https://en.wikipedia.org/wiki/Jonathan_Girard_(conductor)">Dr. Jonathan Girard</a>, Director of Orchestras at the University of British Columbia School of Music and the <a href="https://music.ubc.ca/symphony-orchestra">UBC Symphony Orchestra</a> (UBCSO). Conversations took place between Carruthers and Girard regarding how best to translate the visual into the auditory.</p>
 
 ### On the Page
@@ -43,6 +41,7 @@ permalink: /sighttosound/
   </div>
 </div>
 <br>
-Carruthers and Girard struck upon an ingenious solution. They created a geography of the orchestra on a sheet of transparent plastic and used it to map over Carruthers’ art works. Dr. Girard recounts: “We created a transparent overlay of the seating chart and went page by page, figuring out which instruments would take responsibility for which parts of the images.”
+Carruthers an
+d Girard struck upon an ingenious solution. They created a geography of the orchestra on a sheet of transparent plastic and used it to map over Carruthers’ art works. Dr. Girard recounts: “We created a transparent overlay of the seating chart and went page by page, figuring out which instruments would take responsibility for which parts of the images.”
 
 <button type="button" class="btn btn-light">[Next: The Premiere](https://ubc-ds.github.io/slippages/premiere)</button>

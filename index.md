@@ -18,8 +18,21 @@ Climate crisis has the potential to change humanity and the natural world foreve
 In 2017, multidisciplinary artist, [Deborah Carruthers](http://www.deborahcarruthers.com), served as the inaugural Artist in Residence at the [Peter Wall Institute for Advanced Studies](https://pwias.ubc.ca), [University of British Columbia (UBC)](https://en.wikipedia.org/wiki/University_of_British_Columbia). Carruthers teamed up with science researchers at the institution as well as the [UBC School of Music](https://music.ubc.ca) to create an interdisciplinary work combining sound, science, and visual art for the purposes of increasing public awareness of the climate crisis and inciting action.
 
 ### The Inspiration
-<iframe frameborder="0" margin="10px" class="juxtapose" width="800" height="600" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5f21a49c-d82e-11ea-bf88-a15b6c7adf9a"></iframe>
-<p class="generic-caption"><b>Above:</b> Aerial views of Athabasca Glacier in recession: photos courtesy NASA.</p>
+
+<div class="container">
+<div class="inline-image-reference">
+  <div class="col-12">
+    <div class="row">
+      <iframe frameborder="0" margin="10px" class="juxtapose" width="800" height="600" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5f21a49c-d82e-11ea-bf88-a15b6c7adf9a"></iframe>
+    </div>
+  <div class="row">
+    <p class="generic-caption"><b>Above:</b> Aerial views of Athabasca Glacier in recession: photos courtesy NASA.</p>
+  </div>
+  </div>
+</div>
+</div>
+
+&nbsp;
 
 Carruthers found inspiration for the project on an earlier research trip to [Athabasca Glacier](https://en.wikipedia.org/wiki/Athabasca_Glacier) in the Canadian Rockies. The artist was determined to experience glaciers firsthand, motivated by their importance to our living planet; glaciers provide fresh water for irrigation and domestic use, sustain animal and plant life, and determine the level of earth’s oceans. Scientists continue to monitor glacial retreat or melting to determine the impact of atmospheric greenhouse gases released as a result of human activity. Athabasca Glacier is currently melting at a rate of over five meters a year.
 
