@@ -55,7 +55,7 @@ Carruthers commissioned special hand-made paper for the final images, requesting
 <div id="ubcOpenCollectionsWidgetDisplay">
 <script id="ubcOpenCollectionsWidget"
 src="https://open.library.ubc.ca/staticfile/build/embed/item.js"
-data-item="1.0394360"
+data-item="1.0394360/5"
 data-collection="52387"
 data-metadata="false"
 data-width=""
