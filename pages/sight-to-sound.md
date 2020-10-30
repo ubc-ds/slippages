@@ -25,7 +25,7 @@ permalink: /sight-to-sound/
 &nbsp;
 <p>In the summer of 2018, Carruthers gathered up 27 selected paintings that would comprise the <b>slippages</b>  series and temporarily relocated to Vancouver to work with <a href="https://en.wikipedia.org/wiki/Jonathan_Girard_(conductor)">Dr. Jonathan Girard</a>, Director of Orchestras at the University of British Columbia School of Music and the <a href="https://music.ubc.ca/symphony-orchestra">UBC Symphony Orchestra</a> (UBCSO). Conversations took place between Carruthers and Girard regarding how best to translate the visual into the auditory.</p>
 
-### On the Page
+<h3>On the Page</h3>
 
 <div class="container">
   <div class="inline-image-reference">
@@ -41,7 +41,6 @@ permalink: /sight-to-sound/
   </div>
 </div>
 <br>
-Carruthers an
-d Girard struck upon an ingenious solution. They created a geography of the orchestra on a sheet of transparent plastic and used it to map over Carruthers’ art works. Dr. Girard recounts: “We created a transparent overlay of the seating chart and went page by page, figuring out which instruments would take responsibility for which parts of the images.”
+Carruthers and Girard struck upon an ingenious solution. They created a geography of the orchestra on a sheet of transparent plastic and used it to map over Carruthers’ art works. Dr. Girard recounts: “We created a transparent overlay of the seating chart and went page by page, figuring out which instruments would take responsibility for which parts of the images.”
 
-<button type="button" class="btn btn-light">[Next: The Premiere](https://ubc-ds.github.io/slippages/premiere)</button>
+<button type="button" class="btn btn-light"><a href="https://ubc-ds.github.io/slippages/premiere">Next: The Premiere</a></button>
