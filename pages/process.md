@@ -52,6 +52,11 @@ Carruthers commissioned special hand-made paper for the final images, requesting
 
 ### Digital
 
+<video height="auto" width="800" controls>
+  <source src="/videos/performance.mp4" type="video/mp4">
+  <source src="/videos/performance.ogg" type="video/ogg">
+</video>
+
 Along with the paintings, Carruthers <a href="https://open.library.ubc.ca/cIRcle/collections/ubccommunityandpartnerspublicati/52387/items/1.0394360">created a streaming video component</a> that would serve to compliment the central aural experience.
 
 <button type="button" class="btn btn-light">[Next : From Sight to Sound](https://ubc-ds.github.io/slippages/sight-to-sound)</button>

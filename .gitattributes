@@ -1,2 +1,2 @@
-*.ogg filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
+/videos/performance.mp4 filter=lfs diff=lfs merge=lfs -text
+/videos/performance.ogg filter=lfs diff=lfs merge=lfs -text
