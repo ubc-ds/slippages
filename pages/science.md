@@ -11,7 +11,7 @@ We should be slowly cooling, moving towards the next ice age. Instead, the earth
 In British Columbia (BC), glacier area declined by 11% between 1985 and 2005. The rate of loss is accelerating and glaciers are expected to lose 30-50% additional volume by 2050, thereby decreasing freshwater sources and heavily impacting related ecosystems ([Preliminary Strategic Climate Risk Assessment report](https://www2.gov.bc.ca/gov/content/environment/climate-change/adaptation/risk-assessment)). [Canada’s Changing Climate Report](https://changingclimate.ca/CCCR2019/) describes the rate of loss as “unprecedented over several millennia.” In a medium emissions scenario, by the end of this century the glaciers in western Canada are projected to be mostly gone, having declined by 70-95%.
 
 ### The Athabasca Glacier
-Athabasca Glacier is the most visited glacier in North America. It forms part of the Columbia Icefield and is estimated to be approximately 300 m deep. As well as glacial recession, the icefield experiences 5 meters of glacial thinning per year.
+Athabasca Glacier is the most visited glacier in North America. It forms part of the Columbia Icefield and is estimated to be approximately 300 m deep. In addition to receding, the glacier is thinning by 5 metres each year.
 
 <div class="container">
 <div class="inline-image-reference">
@@ -44,7 +44,7 @@ The effects of glacier recession include loss of ecosystems and forests, and sev
     <div class="col-sm">
     {% include inline_image.html collection='slippages' pid='obj33' %}
     <br /><br />
-    <p class="image-caption"><b>Above and left:</b> “Listen to Scientists” banner at the UBC action and main strike at City Hall, September 27, 2019. Approx. 800,000 people marched in Canada and approximately 7 million marched worldwide. Photo courtesy of Sally Taylor and Helen Brown, UBC Library.</p>
+    <p class="image-caption"><b>Above and left:</b> “Listen to Scientists” banner at the UBC action and main strike at City Hall, September 27, 2019. More than 800,000 people marched in Canada and approximately 7 million marched worldwide. Photo courtesy of Sally Taylor and Helen Brown, UBC Library.</p>
     </div>
   </div>  
 </div>
