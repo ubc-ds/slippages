@@ -53,8 +53,8 @@ Carruthers commissioned special hand-made paper for the final images, requesting
 ### Digital
 
 <video height="auto" width="800" controls>
-  <source src="/videos/performance.mp4" type="video/mp4">
-  <source src="/videos/performance.ogg" type="video/ogg">
+  <source src="/videos/streaming.mp4" type="video/mp4">
+  <source src="/videos/streaming.ogg" type="video/ogg">  
 </video>
 
 Along with the paintings, Carruthers <a href="https://open.library.ubc.ca/cIRcle/collections/ubccommunityandpartnerspublicati/52387/items/1.0394360">created a streaming video component</a> that would serve to compliment the central aural experience.
