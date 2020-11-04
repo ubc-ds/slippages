@@ -20,7 +20,7 @@ Athabasca Glacier is the most visited glacier in North America. It forms part of
     {% include inline_image.html collection='slippages' pid='obj30' %}
     </div>
   </div>  
-    <div class="row"><p class="image-caption"><b>Left:</b> Aerial image of the Columbia Icefield, highlighting the extent of recession of the Athabasca, Columbia, and Saskatchewan Glaciers between 1977 and 2020. The image on the <b>right</b> compiles the surface area lost on these three glaciers over 43 years and visualizes that area mapped onto downtown Vancouver and Vancouver Harbour. Images compiled by Evan Thornberry, UBC Library. </p></div>
+    <div class="row"><p class="image-caption"><b>Left:</b> Aerial image of the Columbia Icefield, highlighting the extent of recession of the Athabasca, Columbia, and Saskatchewan Glaciers between 1977 and 2020. <b>Right</b>: aerial image compiling the surface area lost on these three glaciers over 43 years and visualizes that area mapped onto downtown Vancouver and Vancouver Harbour. Images compiled by Evan Thornberry, UBC Library. </p></div>
 </div>
 </div>
 
