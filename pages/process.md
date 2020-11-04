@@ -20,7 +20,7 @@ permalink: /process/
 </div>
 </div>
 <br>
-Carruthers maintains notebooks for each of her projects. The notebook for *‘slippages’*  functions as an essential resource for those interested in investigating the artist’s creative process. Assembled over two years, this notebook is comprised of hand-written texts, inspirational preliminary sketches, and unique inserts.					
+Carruthers maintains notebooks for each of her projects. The notebook for _‘slippages’_ functions as an essential resource for those interested in investigating the artist’s creative process. Assembled over two years, this notebook is comprised of hand-written texts, inspirational preliminary sketches, and unique inserts.					
 
 ### In the Artist's Studio
 <div class="container">
@@ -43,7 +43,7 @@ Upon returning to Montréal after visiting Athabasca Glacier, Carruthers set to 
    <div class="col-sm">
    {% include inline_image.html collection='slippages' pid='obj14' %}
    </div>
-<p class="image-caption"><b>Above:</b> Three paintings selected from a series that would form the 27-page graphic score for <b>‘slippages’</b> ; acrylic ink on bespoke St-Armand cotton paper using hues of yellows, blues, and greys similar to those observed by the artist in the natural environment on her field trip to Athabasca Glacier.</p>
+<p class="image-caption"><b>Above:</b> Three paintings selected from a series that would form the 27-page graphic score for _‘slippages’_ ; acrylic ink on bespoke St-Armand cotton paper using hues of yellows, blues, and greys similar to those observed by the artist in the natural environment on her field trip to Athabasca Glacier.</p>
 </div>
 </div>
 </div>
@@ -58,6 +58,6 @@ Carruthers commissioned special hand-made paper for the final images, requesting
     <source src="https://ubc-ds.github.io/slippages/videos/streaming.webm" type="video/webm">  
 </video>
 
-Along with the paintings, Carruthers <a href="https://open.library.ubc.ca/cIRcle/collections/ubccommunityandpartnerspublicati/52387/items/1.0394360">created a streaming video component</a> that would serve to compliment the central aural experience.
+Along with the paintings, Carruthers created a streaming video component that would serve to compliment the central aural experience.
 
 <button type="button" class="btn btn-light">[Next : From Sight to Sound](https://ubc-ds.github.io/slippages/sight-to-sound)</button>

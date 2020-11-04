@@ -6,7 +6,7 @@ permalink: /acknowledgements/
 
 ### Exhibition
 
-*‘slippages’*  website was a collaborative effort involving colleagues from across multiple departmental units:
+_‘slippages’_ website was a collaborative effort involving colleagues from across multiple departmental units:
 * UBC Library Music, Art and Architecture Library: Kevin Madill (UBC Music Librarian), Matthew Kaufhold (Graduate Academic Assistant, UBC School of Information).
 *	UBC Library Digital Initiatives: Robert Stibravy (Librarian, Digital Projects), Eirian Vining (Digital Project Librarian), Stephanie Savage (Scholarly Communications and Copyright).
 *	UBC Library Research Commons: Eka Grguric (Digital Scholarship Librarian), Evan Thornberry (GIS Librarian).
@@ -20,7 +20,7 @@ Four colleagues in particular deserve independent acknowledgement for their proj
 * Helen L. Brown for her work researching, formulating, and writing the website’s ‘The Science’ page.
 *	Matthew Kaufhold for serving as the primary digitizer, creating resource metadata, participating in website construction, and editing website content.
 
-UBC School of Music graciously extended support to *‘slippages’*  website creation by way of facilitating performance copyright clearance. Special thanks goes to UBC Director of Orchestras Dr. Jonathan Girard whose boundless energy and kindness contributed greatly to the success of the enterprise.
+UBC School of Music graciously extended support to _‘slippages’_  website creation by way of facilitating performance copyright clearance. Special thanks goes to UBC Director of Orchestras Dr. Jonathan Girard whose boundless energy and kindness contributed greatly to the success of the enterprise.
 
 Photographer John William kindly granted permission for use of his images documenting composer and conductor in the collaborative/creative process.
 
@@ -28,9 +28,9 @@ Lastly we thank composer and artist, Deborah Carruthers, for giving generously o
 
 ### Funding
 
-Funding for the project *‘slippages’*  was provided by The Peter Wall Institute for Advanced Studies, the Canada Council of the Arts, and the Anne Kaplan Endowment, UBC Library.
+Funding for the project _‘slippages’_  was provided by The Peter Wall Institute for Advanced Studies, the Canada Council of the Arts, and the Anne Kaplan Endowment, UBC Library.
 
-Funding for the website *‘slippages’*  and digitization of *‘slippages’*  resources was provided by the Anne Kaplan Endowment, UBC Library.
+Funding for the website _‘slippages’_  and digitization of _‘slippages’_ resources was provided by the Anne Kaplan Endowment, UBC Library.
 
 <div class="container">
   <div class="row">

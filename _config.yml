@@ -134,7 +134,7 @@ footer:
     - label: 'View on GitHub'
       link: 'https://github.com/ubc-ds/slippages'
     - label: 'Site credits'
-      link: '/credits'
+      link: '/acknowledgements'
   logos:
     - img: '/img/logos/ubc-logo.png'
 

@@ -38,7 +38,7 @@ permalink: /artists-documents/
 
 <p class="artist">The number of musicians can be extremely variable. This piece was originally conceived of as having a length of 10 minutes. For large ensembles, such as symphony orchestras, it is recommended that the work be timed, with each sheet representing approximately 25 sec. As the time-scale of glaciers is dramatically different from ours, I would suggest that this too may be mutable.</p>
 
-<p class="artist">The original <strong>'slippages'</strong>  score consists of twenty-seven 18 inch by 24 inch pages of bespoke St-Armand cotton paper, with the score rendered in coloured acrylic ink and marine salt.</p>
+<p class="artist">The original <i>'slippages'</i>  score consists of twenty-seven 18 inch by 24 inch pages of bespoke St-Armand cotton paper, with the score rendered in coloured acrylic ink and marine salt.</p>
 
 <h3>3.	About My Graphic Scores</h3>
 
@@ -46,7 +46,7 @@ permalink: /artists-documents/
 
 <p class="artist">My scores contain no musical notation whatsoever.</p>
 
-<p class="artist"><strong>'slippages'</strong>  has no temporal or pitch indications; although it has a suggestion related to the overall length of the work to facilitate working with large ensembles.</p>
+<p class="artist"><i>'slippages'</i>  has no temporal or pitch indications; although it has a suggestion related to the overall length of the work to facilitate working with large ensembles.</p>
 
 <p class="artist">
 It will produce a unique piece each time it is played.</p>

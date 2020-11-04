@@ -22,7 +22,7 @@ permalink: /outcomes/
 <br>
 Immediately following the premier, Dr. Girard created a study score to record decisions made in the execution of the composition to facilitate future performances.
 
-In the summer of 2019, UBC’s Music Librarian began the process of gathering and working with colleagues from across various UBC Library units for the purpose of visioning and building UBC Library’s *‘slippages’*  website and creating permanent access to *‘slippages’*  holdings in [UBC Library’s Open Collections](https://open.library.ubc.ca)
+In the summer of 2019, UBC’s Music Librarian began the process of gathering and working with colleagues from across various UBC Library units for the purpose of visioning and building UBC Library’s _‘slippages’_  website and creating permanent access to _‘slippages’_  holdings in [UBC Library’s Open Collections](https://open.library.ubc.ca){:target="_blank"}.
 
 ### Teaching and Learning
 

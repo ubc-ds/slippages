@@ -36,11 +36,11 @@ permalink: /sight-to-sound/
   <div class="col-sm">
 {% include inline_image.html collection='slippages' pid='obj21' %}
  </div>
-  <p class="image-caption"><b>Above:</b> Two paintings selected from the 27-page <b>‘slippages’</b> graphic score shown with the transparent overlay developed by the Maestro and the artist to transform visual expression into sound.</p>
+  <p class="image-caption"><b>Above:</b> Two paintings selected from the 27-page _‘slippages’_ graphic score shown with the transparent overlay developed by the Maestro and the artist to transform visual expression into sound.</p>
   </div>
   </div>
 </div>
 <br>
 Carruthers and Girard struck upon an ingenious solution. They created a geography of the orchestra on a sheet of transparent plastic and used it to map over Carruthers’ art works. Dr. Girard recounts: “We created a transparent overlay of the seating chart and went page by page, figuring out which instruments would take responsibility for which parts of the images.”
-
+&nbsp;
 <button type="button" class="btn btn-light"><a href="https://ubc-ds.github.io/slippages/premiere">Next: The Premiere</a></button>
