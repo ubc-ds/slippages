@@ -51,13 +51,13 @@ Upon returning to Montréal after visiting Athabasca Glacier, Carruthers set to 
 Carruthers commissioned special hand-made paper for the final images, requesting sheets be made with random holes. As the pages are placed over each other, the holes function metaphorically to stimulate the performer into imagining peering through the surface of the glacier to consider its past. Carruthers states: “With a glacier, the present is on the surface. You are working from the present to the past. Each layer, each sheet of my score is a layer of history.”
 
 ### Digital
-
-<video height="auto" width="1024" controls>
+<div class="container">
+<video height="auto" width="100%" controls>
   <source src="https://ubc-ds.github.io/slippages/videos/streaming.mp4" type="video/mp4">
   <source src="https://ubc-ds.github.io/slippages/videos/streaming.ogg" type="video/ogg">  
     <source src="https://ubc-ds.github.io/slippages/videos/streaming.webm" type="video/webm">  
 </video>
-
+</div>
 Along with the paintings, Carruthers created a streaming video component that would serve to compliment the central aural experience.
 
 <button type="button" class="btn btn-light">[Next: From Sight to Sound](https://ubc-ds.github.io/slippages/sight-to-sound)</button>
