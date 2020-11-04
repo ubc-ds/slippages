@@ -15,7 +15,7 @@ permalink: /outcomes/
    <div class="col-sm">
 {% include inline_image.html collection='slippages' pid='obj26' %}
   </div>
-  <p class="image-caption"><b>Above:</b> Two paintings selected from a series forming the 27-page graphic score for <b>‘slippages’</b>  shown with edits as they appear in Dr. Girard’s study score format.</p>
+  <p class="image-caption"><b>Above:</b> Two paintings selected from a series forming the 27-page graphic score for <i>‘slippages’</i>  shown with edits as they appear in Dr. Girard’s study score format.</p>
 </div>
 </div>
 </div>
@@ -41,7 +41,7 @@ The inclusion of _‘slippages’_  in UBCSO’s 2018-19 concert season offered 
    <div class="col-sm">
 {% include inline_image.html collection='slippages' pid='obj29' %}
   </div>
-  <p class="image-caption"><b>Above:</b> Student action September 27, 2019 as captured by Bailey Martens in <a href="https://www.ubyssey.ca/culture/UBC-Climate-Strike-Signs">“The stories behind UBC students' pleas for climate action”</a> published by UBC’s student newspaper; photos courtesy of UBYSSEY.</p>
+  <p class="image-caption"><b>Above:</b> Student action September 27, 2019 as captured by Bailey Martens in <a href="https://www.ubyssey.ca/culture/UBC-Climate-Strike-Signs" target="_blank">“The stories behind UBC students' pleas for climate action”</a> published by UBC’s student newspaper; photos courtesy of UBYSSEY.</p>
 </div>
 </div>
 </div>

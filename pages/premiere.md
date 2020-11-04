@@ -15,7 +15,7 @@ On Friday, October 5th, 2018, <i>‘slippages’</i>  premiered at the [Chan Cen
 Viewing parties for the broadcast performance took place in cities across Canada, the United States, the United Kingdom, and Germany.
 
 ### Programme
-The evening’s progamme indicating companion works selected by Maestro Girard for <i>‘slippages’</i>.
+The evening’s programme indicating companion works selected by Maestro Girard for <i>‘slippages’</i>.
 
 Director Dr. Jonathan Girard dedicated the evening’s concert to works bound in various ways to the natural environment. The programme reveals his eclectic vision spanning geographies and time.
 
