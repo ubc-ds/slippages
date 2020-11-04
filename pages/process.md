@@ -60,5 +60,6 @@ Along with the paintings, Carruthers created a streaming video component that wo
     <source src="https://ubc-ds.github.io/slippages/videos/streaming.webm" type="video/webm">  
 </video>
 </div>
-&nbsp;
-<button type="button" class="btn btn-light">[Next: From Sight to Sound](https://ubc-ds.github.io/slippages/sight-to-sound)</button>
+<br />
+<br />
+<button type="button" class="btn btn-light"><a href="https://ubc-ds.github.io/slippages/sight-to-sound">Next: From Sight to Sound</a></button>
