@@ -9,7 +9,7 @@ permalink: /sight-to-sound/
 <div class="container">
   <div class="inline-image-reference">
   <div class="row align-items-center">
-  <div class="col-7">
+  <div class="col-6">
   {% include inline_image.html collection='slippages' pid='obj17' %}
   </div>
     <div class="col-sm-6">
