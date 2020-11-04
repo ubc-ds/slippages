@@ -15,7 +15,7 @@ On Friday, October 5th, 2018, *‘slippages’*  premiered at the [Chan Centre f
 Viewing parties for the broadcast performance took place in cities across Canada, the United States, the United Kingdom, and Germany.
 
 ### Programme
-The first three pages from the evening’s progamme indicating companion works selected by Maestro Girard for _‘slippages’_.
+The evening’s progamme indicating companion works selected by Maestro Girard for _‘slippages’_.
 
 Director Dr. Jonathan Girard dedicated the evening’s concert to works bound in various ways to the natural environment. The programme reveals his eclectic vision spanning geographies and time.
 
@@ -31,4 +31,5 @@ async >
 </script>
 </div>
 <br/>
-<button type="button" class="btn btn-light">[Next: Artist's Documents](https://ubc-ds.github.io/slippages/artistdocuments)</button>
+
+<button type="button" class="btn btn-light">[Next: Artist's Documents](https://ubc-ds.github.io/slippages/artists-documents)</button>

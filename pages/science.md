@@ -3,9 +3,6 @@ layout: page
 title: The Science
 permalink: /science/
 ---
-
-### The Science
-
 We should be slowly cooling, moving towards the next ice age. Instead, the earth has heated by 1.2°C above pre-industrial levels and Canada has heated by two to three times the global average. At our current trajectory, conservative estimates project a global increase of between 3-4 degrees within 80 years. Even at the lowest emissions scenario, by 2050 Canada is expected to heat 2°C above the average temperature we experienced in the years 1986-2005 ([Canada’s Changing Climate Report](https://changingclimate.ca/CCCR2019/){:target="_blank"}).
 
 In British Columbia (BC), glacier area declined by 11% between 1985 and 2005. The rate of loss is accelerating and glaciers are expected to lose 30-50% additional volume by 2050, thereby decreasing freshwater sources and heavily impacting related ecosystems ([Preliminary Strategic Climate Risk Assessment report](https://www2.gov.bc.ca/gov/content/environment/climate-change/adaptation/risk-assessment){:target="_blank"}). [Canada’s Changing Climate Report](https://changingclimate.ca/CCCR2019/){:target="_blank"} describes the rate of loss as “unprecedented over several millennia.” In a medium emissions scenario, by the end of this century the glaciers in western Canada are projected to be mostly gone, having declined by 70-95%.
@@ -17,10 +14,10 @@ Athabasca Glacier is the most visited glacier in North America. It forms part of
 <div class="inline-image-reference">
   <div class="row">
     <div class="col-sm">
-    {% include inline_image.html collection='slippages' pid='obj30' %}
+    {% include inline_image.html collection='slippages' pid='obj31' %}
     </div>
     <div class="col-sm">
-    {% include inline_image.html collection='slippages' pid='obj31' %}
+    {% include inline_image.html collection='slippages' pid='obj30' %}
     </div>
   </div>  
     <div class="row"><p class="image-caption"><b>Left:</b> Aerial image of the Columbia Icefield, highlighting the extent of recession of the Athabasca, Columbia, and Saskatchewan Glaciers between 1977 and 2020. The image on the <b>right</b> compiles the surface area lost on these three glaciers over 43 years and visualizes that area mapped onto downtown Vancouver and Vancouver Harbour. Images compiled by Evan Thornberry, UBC Library. </p></div>

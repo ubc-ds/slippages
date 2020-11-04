@@ -22,13 +22,13 @@ permalink: /outcomes/
 <br>
 Immediately following the premier, Dr. Girard created a study score to record decisions made in the execution of the composition to facilitate future performances.
 
-In the summer of 2019, UBC’s Music Librarian began the process of gathering and working with colleagues from across various UBC Library units for the purpose of visioning and building UBC Library’s _‘slippages’_  website and creating permanent access to _‘slippages’_  holdings in [UBC Library’s Open Collections](https://open.library.ubc.ca){:target="_blank"}.
+In the summer of 2019, UBC’s Music Librarian began the process of gathering and working with colleagues from across various UBC Library units for the purpose of visioning and building UBC Library’s _‘slippages’_  website and creating permanent access to _‘slippages’_  holdings in [UBC Library’s Open Collections](https://open.library.ubc.ca/search?q=source:%20%22Canadian%20Women%20Composers%20Collection%22){:target="_blank"}.
 
 ### Teaching and Learning
 
-The inclusion of *‘slippages’*  in UBCSO’s 2018-19 concert season offered two primary teaching and learning opportunities:
+The inclusion of _‘slippages’_  in UBCSO’s 2018-19 concert season offered two primary teaching and learning opportunities:
 1.	Challenging aspiring young music professionals to answer the question how to musically interpret visual art as presented in the form of a graphic score.
-2.	Bringing the climate crisis directly into the working lives of student musicians. The performance of *‘slippages’*  includes the crumpling and dropping of the pages that make up the score as it is performed – both for the resulting sonic properties and to evoke *solastalgia*, a form of emotional or existential distress suffered by those experiencing the consequences of environmental change.
+2.	Bringing the climate crisis directly into the working lives of student musicians. The performance of _‘slippages’_  includes the crumpling and dropping of the pages that make up the score as it is performed – both for the resulting sonic properties and to evoke solastalgia, a form of emotional or existential distress suffered by those experiencing the consequences of environmental change.
 
 ### Action UBC
 
@@ -46,6 +46,6 @@ The inclusion of *‘slippages’*  in UBCSO’s 2018-19 concert season offered 
 </div>
 </div>
 <br>
-Most importantly, *‘slippages’*  endures as a marker for student engagement around climate crisis at UBC, both in terms of activities related to their professional studies and as inspiration to action.
+Most importantly, _‘slippages’_  endures as a marker for student engagement around climate crisis at UBC, both in terms of activities related to their professional studies and as inspiration to action.
 
 <button type="button" class="btn btn-light">[Next: Affiliations](https://ubc-ds.github.io/slippages/affiliations)</button>

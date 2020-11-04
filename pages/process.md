@@ -43,7 +43,7 @@ Upon returning to Montréal after visiting Athabasca Glacier, Carruthers set to 
    <div class="col-sm">
    {% include inline_image.html collection='slippages' pid='obj14' %}
    </div>
-<p class="image-caption"><b>Above:</b> Three paintings selected from a series that would form the 27-page graphic score for _‘slippages’_ ; acrylic ink on bespoke St-Armand cotton paper using hues of yellows, blues, and greys similar to those observed by the artist in the natural environment on her field trip to Athabasca Glacier.</p>
+<p class="image-caption"><b>Above:</b> Two paintings selected from a series that would form the 27-page graphic score for _‘slippages’_ ; acrylic ink on bespoke St-Armand cotton paper using hues of yellows, blues, and greys similar to those observed by the artist in the natural environment on her field trip to Athabasca Glacier.</p>
 </div>
 </div>
 </div>
@@ -52,7 +52,7 @@ Carruthers commissioned special hand-made paper for the final images, requesting
 
 ### Digital
 
-<video height="auto" width="800" controls>
+<video height="auto" width="1024" controls>
   <source src="https://ubc-ds.github.io/slippages/videos/streaming.mp4" type="video/mp4">
   <source src="https://ubc-ds.github.io/slippages/videos/streaming.ogg" type="video/ogg">  
     <source src="https://ubc-ds.github.io/slippages/videos/streaming.webm" type="video/webm">  
@@ -60,4 +60,4 @@ Carruthers commissioned special hand-made paper for the final images, requesting
 
 Along with the paintings, Carruthers created a streaming video component that would serve to compliment the central aural experience.
 
-<button type="button" class="btn btn-light">[Next : From Sight to Sound](https://ubc-ds.github.io/slippages/sight-to-sound)</button>
+<button type="button" class="btn btn-light">[Next: From Sight to Sound](https://ubc-ds.github.io/slippages/sight-to-sound)</button>

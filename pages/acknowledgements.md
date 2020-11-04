@@ -59,4 +59,4 @@ This site is built using Wax, a minimal computing ([minicomp](https://github.com
 Wax uses open source libraries and frameworks (including [Jekyll](https://jekyllrb.com/), [IIIF](https://iiif.io/), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/)) and builds upon work by software and data architects [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
 
 
-<button type="button" class="btn btn-light">[Jump to: Affiliations](https://ubc-ds.github.io/slippages/affiliations)</button>
+<button type="button" class="btn btn-light">[Next: Affiliations](https://ubc-ds.github.io/slippages/affiliations)</button>
