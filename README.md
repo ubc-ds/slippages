@@ -1,5 +1,5 @@
 # Slippages
-## A digital exhibit of the work of Deborah Carruthers.
+_A digital exhibit of the work of Deborah Carruthers._
 
 _‘slippages’_ website was a collaborative effort involving colleagues from across multiple departmental units:
 * UBC Library Music, Art and Architecture Library: Kevin Madill (UBC Music Librarian), Matthew Kaufhold (Graduate Academic Assistant, UBC School of Information).
