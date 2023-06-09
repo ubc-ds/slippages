@@ -27,26 +27,6 @@ Funding for the project _‘slippages’_  was provided by The Peter Wall Instit
 
 Funding for the website _‘slippages’_  and digitization of _‘slippages’_ resources was provided by the Anne Kaplan Endowment, UBC Library.
 
-<div class="container">
-  <div class="row">
-    <div class="col-6">
-<img src="../img/logos/ubc-logo.jpg" width="auto" height="70" />
-</div>
-   <div class="col-2">
-<img src="../img/logos/som-logo.png" width="auto" height="70" />
-</div>
-  </div>
-&nbsp;
-<div class="row">
-  <div class="col-6">
-<img src="../img/logos/cca-logo.jpg" width="auto" height="70" />
-</div>
-<div class="col-2">
-<img src="../img/logos/peter-wall-logo.jpg" width="auto" height="70" />
-</div>
-</div>
-</div>
-
 ### Site
 
 This site is built using Wax, a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/) and currently maintained by Marii Nyrop and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries.
